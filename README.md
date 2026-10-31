@@ -6,7 +6,7 @@
 
 ## Projects
 
-- [odditimana](https://github.com/odditymana/odditimana) — ポートフォリオサイト。HTML・CSS・JavaScript（バニラ）で制作
+- [odditimana](https://odditimana.com/) — ポートフォリオサイト。HTML・CSS・JavaScript（バニラ）で制作
 - [local-spin](https://github.com/odditymana/local-spin) — 手元の音源を、ターンテーブルの回転数とピッチで楽しむWebアプリ
 
 ## Skills
