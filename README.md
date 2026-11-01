@@ -7,7 +7,7 @@
 ## Projects
 
 - [odditimana](https://github.com/odditymana/odditimana) — ポートフォリオサイト。HTML・CSS・JavaScript（バニラ）で制作
-- [TEST PRESSING](https://odditymana.github.io/test-pressing/) — 手元の音源を、ターンテーブルの回転数とピッチで楽しむWebアプリ
+- [TEST PRESSING](https://github.com/odditymana/test-pressing.git) — 手元の音源を、ターンテーブルの回転数とピッチで楽しむWebアプリ
 
 ## Skills
 
