@@ -11,7 +11,7 @@
 
 ## Skills
 
-HTML / CSS / JavaScript / WordPress / PHP / Figma / Photoshop / Illustrator
+HTML / CSS / SCSS / JavaScript / WordPress / PHP / Figma / Photoshop / Illustrator
 
 ## Links
 
