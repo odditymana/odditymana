@@ -6,8 +6,9 @@
 
 ## Projects
 
-- [ODDITIMANA](https://github.com/odditymana/odditimana) — ポートフォリオサイト。HTML・CSS・JavaScript（バニラ）で制作
+- [PROOF](https://odditymana.github.io/proof/) — 画像の構図（黄金比・白銀比）と配色を確かめるWebアプリ。計算はテストと GitHub Actions で確認
 - [TEST PRESSING](https://github.com/odditymana/test-pressing.git) — 手元の音源を、ターンテーブルの回転数とピッチで楽しむWebアプリ
+- [ODDITIMANA](https://github.com/odditymana/odditimana) — ポートフォリオサイト。HTML・CSS・JavaScript（バニラ）で制作
 
 ## Skills
 
